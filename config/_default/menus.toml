@@ -17,6 +17,18 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+  
+[[main_right]]
+  name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://github.com/jhrcook"
+  weight = 10
+
+[[main_right]]
+  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://twitter.com/joshdoesa"
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

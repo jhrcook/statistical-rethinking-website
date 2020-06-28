@@ -1,3 +1,17 @@
+# Notes on *Statistical Rethinking*
+
+[![notes website](https://img.shields.io/badge/Notes_on-Statistical_Rethinking-bf344b.svg?style=flat)](https://github.com/jhrcook)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f225b887-91cd-40af-b49d-a0e24c235bc7/deploy-status)](https://app.netlify.com/sites/statistical-rethinking-notes/deploys)
+
+This repository builds a static website for my notes on the textbook *Statistical Rethinking: A Bayesian Course with Examples in R and Stan* by Richard McElreath.
+The website was built using Hugo Academic - see below for information on how to make your own.
+
+[![jhc github](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)
+[![jhc twitter](https://img.shields.io/badge/Twitter-@JoshDoesA-00aced.svg?style=flat&logo=twitter)](https://twitter.com/JoshDoesa)
+[![jhc website](https://img.shields.io/badge/Website-Joshua_Cook-5087B2.svg?style=flat&logo=telegram)](https://joshuacook.netlify.com)
+
+---
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)

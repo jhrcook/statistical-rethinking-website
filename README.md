@@ -1,6 +1,6 @@
 # Notes on *Statistical Rethinking*
 
-[![notes website](https://img.shields.io/badge/Notes_on-Statistical_Rethinking-bf344b.svg?style=flat)](https://github.com/jhrcook)
+[![notes website](https://img.shields.io/badge/Notes_on-Statistical_Rethinking-bf344b.svg?style=flat)](https://statistical-rethinking-notes.netlify.app)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f225b887-91cd-40af-b49d-a0e24c235bc7/deploy-status)](https://app.netlify.com/sites/statistical-rethinking-notes/deploys)
 
 This repository builds a static website for my notes on the textbook *Statistical Rethinking: A Bayesian Course with Examples in R and Stan* by Richard McElreath.
